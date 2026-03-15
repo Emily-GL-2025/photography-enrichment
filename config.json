@@ -1,0 +1,7 @@
+{
+  "input": "./photos",
+  "output": "./_site",
+  "title": "My Photography Portfolio",
+  "theme": "mosaic",
+  "albums-from": ["folders"]
+}
