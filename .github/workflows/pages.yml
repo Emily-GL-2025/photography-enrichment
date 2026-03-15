@@ -5,7 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch: # Allows you to run the build manually from the Actions tab
-
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 # Grants the required permissions for GitHub Pages
 permissions:
   contents: read

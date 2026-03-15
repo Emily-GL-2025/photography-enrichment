@@ -2,6 +2,6 @@
   "input": "./photos",
   "output": "./_site",
   "title": "My Photography Portfolio",
-  "theme": "mosaic",
+  "theme": "cards",
   "albums-from": ["folders"]
 }
